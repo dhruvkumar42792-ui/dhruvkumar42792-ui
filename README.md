@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dhruv 👋
 
-<!--
-**dhruvkumar42792-ui/dhruvkumar42792-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Engineer | Focus: Electrical & Computer Engineering
+I am a 2nd-year B.Tech student exploring the intersection of hardware and software. My GitHub is currently a canvas for my learning journey in sustainable tech and robotics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Building & Learning
+* **EV Tech:** Researching motor controllers and battery systems for electric vehicles.
+* **Core CS:** Strengthening my fundamentals in Data Structures (DSA) and DBMS.
+* **Renewable Energy:** Developing concepts for solar energy integration in infrastructure.
+
+### ⚡ Technical Toolkit
+* **Languages:** C, C++, Python (Learning)
+* **Hardware:** Arduino, Hub Motors, Circuit Design
+* **Tools:** Git/GitHub, MATLAB, AutoCAD
+
+### 🤝 Community & Clubs
+* **Drones & Robotics Club:** Active member involved in hardware prototyping.
+* **Google Developer Groups (GDG):** Focused on community building and tech events.
+
+---
+
+### 📫 Connect with me
+* **LinkedIn:** [Insert your link here]
+* **Goal:** Always looking to collaborate on hardware-software integration or green energy projects!
+* 
