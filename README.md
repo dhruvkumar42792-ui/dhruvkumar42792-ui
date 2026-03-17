@@ -22,6 +22,6 @@ I am a 2nd-year B.Tech student exploring the intersection of hardware and softwa
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Insert your link here]
+* **LinkedIn:** Dhruvkumar
 * **Goal:** Always looking to collaborate on hardware-software integration or green energy projects!
 * 
